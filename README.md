@@ -14,3 +14,36 @@ Here are some ideas to get you started:
 -->
 
 <img src="./assets/8bitbedroom.gif" width="100%" height="425px">
+
+  <p align="center">
+    <h2 align="center">
+      Operating Systems:
+    </h2>
+    
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img align="center" src="https://skillicons.dev/icons?i=windows,linux,ubuntu,mint" />
+    </a>
+  </p>
+
+  <p align="center">
+    <h2 align="center">
+      Integrated Development Environments:
+    </h2>
+    
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img align="center" src="https://skillicons.dev/icons?i=vscode,visualstudio,clion,idea,webstorm,pycharm,godot" />
+    </a>
+  </p>
+
+  <p align="center">
+    <h2 align="center">
+      Languages:
+    </h2>
+    
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img align="center" src="https://skillicons.dev/icons?i=cpp,c,java,kotlin,rust,py,bash,ts,js,html,css,md" />
+    </a>
+  </p>
