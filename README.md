@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./assets/8bitbedroom.gif" width="100%" height="500px">
+<img src="./assets/8bitbedroom.gif" width="100%" height="425px">
