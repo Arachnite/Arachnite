@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     
   <p align="center">
     <a href="https://skillicons.dev">
-      <img align="center" src="https://skillicons.dev/icons?i=windows,linux,ubuntu,mint" />
+      <img align="center" src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,kali,mint,apple" />
     </a>
   </p>
 
@@ -44,6 +44,17 @@ Here are some ideas to get you started:
     
   <p align="center">
     <a href="https://skillicons.dev">
-      <img align="center" src="https://skillicons.dev/icons?i=cpp,c,java,kotlin,rust,py,bash,ts,js,html,css,md" />
+      <img align="center" src="https://skillicons.dev/icons?i=cpp,c,java,kotlin,rust,py,bash,powershell,ts,js,html,css,md" />
+    </a>
+  </p>
+
+  <p align="center">
+    <h2 align="center">
+      Applications:
+    </h2>
+    
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img align="center" src="https://skillicons.dev/icons?i=stackoverflow,github,git,bitbucket,gradle,cloudflare,raspberrypi,arduino,atom,anaconda,ableton,notion,gmail,twitter,instagram,discord&perline=8" />
     </a>
   </p>
