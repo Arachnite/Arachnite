@@ -44,7 +44,7 @@ Here are some ideas to get you started:
     
   <p align="center">
     <a href="https://skillicons.dev">
-      <img align="center" src="https://skillicons.dev/icons?i=cpp,c,java,kotlin,rust,py,bash,powershell,reactnative,react,ts,js,html,scss,css,md&perline=8" />
+      <img align="center" src="https://skillicons.dev/icons?i=cpp,c,java,kotlin,rust,py,bash,powershell,reactivex,react,ts,js,html,scss,css,md&perline=8" />
     </a>
   </p>
 
