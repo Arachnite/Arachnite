@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./assets/8bitbedroom.gif" width="100%" height="200px">
+<img src="./assets/8bitbedroom.gif" width="100%" height="350px">
 
   <p align="center">
     <h2 align="center">
