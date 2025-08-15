@@ -22,7 +22,7 @@ Here are some ideas to get you started:
     
   <p align="center">
     <a href="https://skillicons.dev">
-      <img align="center" src="https://skillicons.dev/icons?i=windows,linux,ubuntu,debian,kali,mint,apple" />
+      <img align="center" src="https://skillicons.dev/icons?i=windows,linux,arch,ubuntu,debian,kali,mint,apple" />
     </a>
   </p>
 
