@@ -61,6 +61,6 @@ Here are some ideas to get you started:
   
 <br/>
 
-<p align="center">
-  <img src="./assets/Arachnite Logo.png" width="300px" height="300px">
+<p align="right">
+  <img src="./assets/Arachnite Logo.png" width="250px" height="250px">
 </p>
