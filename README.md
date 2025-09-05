@@ -58,3 +58,9 @@ Here are some ideas to get you started:
       <img align="center" src="https://skillicons.dev/icons?i=stackoverflow,github,git,bitbucket,gradle,cloudflare,raspberrypi,arduino,atom,anaconda,ableton,notion,gmail,twitter,instagram,discord&perline=8" />
     </a>
   </p>
+  
+<br/>
+
+<p align="center">
+  <img src="./assets/Arachnite Logo.png" width="300px" height="300px">
+</p>
