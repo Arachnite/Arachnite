@@ -55,7 +55,7 @@ Here are some ideas to get you started:
     
   <p align="center">
     <a href="https://skillicons.dev">
-      <img align="center" src="https://skillicons.dev/icons?i=stackoverflow,github,git,bitbucket,gradle,cloudflare,raspberrypi,arduino,atom,anaconda,ableton,notion,gmail,twitter,instagram,discord&perline=8" />
+      <img align="center" src="https://skillicons.dev/icons?i=stackoverflow,github,git,bitbucket,gradle,cloudflare,raspberrypi,discord&perline=8" />
     </a>
   </p>
   
