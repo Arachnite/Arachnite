@@ -64,3 +64,9 @@ Here are some ideas to get you started:
 <p align="right">
   <img src="./assets/Arachnite Logo.png" width="250px" height="250px">
 </p>
+
+<p align="center">
+  <a href="https://github-readme-stats.hackclub.dev/api/wakatime?username=12912&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=synthwave">
+    <img align="center" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=12912&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=synthwave" />
+  </a>
+</p>
