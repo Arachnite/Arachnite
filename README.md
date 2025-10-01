@@ -66,7 +66,17 @@ Here are some ideas to get you started:
 </p> -->
 
 <p align="center">
-  <a href="https://github-readme-stats.hackclub.dev/api/wakatime?username=12912&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=synthwave">
-    <img align="center" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=12912&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=synthwave" />
-  </a>
+
+  <img align="center" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=12912&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=synthwave"/>
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=12912&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&theme=synthwave&langs_count=10" width="50%"/>
+
+
+<!--
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=enVId-tech&theme=2077" width="33%">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=enVId-tech&theme=2077&langs_count=64" width="33%" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=enVId-tech&theme=2077&langs_count=64" width="33%" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=enVId-tech&theme=2077" width="30%" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=enVId-tech&theme=2077"  width="69%" align="right" />
+  -->
 </p>
