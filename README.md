@@ -71,6 +71,10 @@ Here are some ideas to get you started:
 
   <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=12912&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&theme=synthwave&langs_count=10" width="47%"/>
 
+<!--
+  <img align="center" src="https://readme-lang-tuyxopyht-envidtechs-projects.vercel.app/api/top-langs/?username=Arachnite&langs_count=9&exclude_repo=ReadmeLang&theme=radical" width="39%" />
+  -->
+
 
 <!--
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=enVId-tech&theme=2077" width="33%">
