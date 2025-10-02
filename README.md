@@ -67,9 +67,9 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-  <img align="left" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=12912&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=synthwave&" width="48%"/>
+  <img align="left" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=12912&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=synthwave&" width="47%"/>
 
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=12912&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&theme=synthwave&langs_count=10" width="48%"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=12912&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&theme=synthwave&langs_count=10" width="47%"/>
 
 
 <!--
